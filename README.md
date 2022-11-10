@@ -26,12 +26,12 @@ Web Developer & Teacher
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="36" height="36" alt="wordpress" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" width="36" height="36" alt="docker" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="36" height="36" alt="php"/></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="http://lofrev.net/wp-content/photos/2017/05/php_emblem.png" width="36" height="36" alt="php"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" width="36" height="36" alt="git"/></a>
 </p>
                     
-### Socials
-                  
+### Socials 
+///https://cdn-icons-png.flaticon.com/512/5968/5968332.png
 <p align="left">
 <a href="https://www.instagram.com/amirhosseinsediqi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://github.com/Amirhosseinsediqi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>

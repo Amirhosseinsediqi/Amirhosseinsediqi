@@ -26,7 +26,7 @@ Web Developer & Teacher
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="36" height="36" alt="wordpress" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" width="36" height="36" alt="docker" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width="36" height="36" alt="php"/></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="36" height="36" alt="php"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494748.png?token=exp=1659037796~hmac=29eca167df026d6bda66b4776e94f869" width="36" height="36" alt="git"/></a>
 </p>
                     

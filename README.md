@@ -27,7 +27,7 @@ Full-stack developer & Teacher
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" width="36" height="36" alt="docker" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="http://lofrev.net/wp-content/photos/2017/05/php_emblem.png" width="46" height="46" alt="php"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" width="36" height="36" alt="git"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/pug-logo-png-transparent.png" width="36" height="36" alt="pug js"/></a>
+<a href="https://pugjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/pug-logo-png-transparent.png" width="36" height="36" alt="pug js"/></a>
 </p>
                     
 ### Socials 

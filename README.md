@@ -29,7 +29,6 @@ Full-stack developer & Teacher
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" width="36" height="36" alt="git"/></a>
 <a href="https://pugjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/pug-logo-png-transparent.png" width="50" height="50" alt="pug js"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" height="40" alt="figma"/></a>
-<a href="https://www.woocommerce.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/825/825519.png" width="40" height="40" alt="woocommerce"/></a>
 </p>
                     
 ### Socials 

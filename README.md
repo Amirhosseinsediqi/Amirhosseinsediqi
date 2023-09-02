@@ -1,11 +1,11 @@
 My name is Amirhossein Sediqi
 ===============================
 
-Full-stack developer & Teacher
+Web developer & Teacher
 -----------------------------
 *   🌍  I'm based in Glin Kayeh, IRAN
 *   ✉️  You can contact me at [sediqi.ah@gmail.com](mailto:sediqi.ah@gmail.com)
-*   🤝  I'm open to collaborating on interesting projects as a full-stack developer
+*   🤝  I'm open to collaborating on interesting projects as a Web developer
 
 <a href="https://github.com/Amirhosseinsediqi" target="_blank" rel="noreferrer"><img
   src="https://img.shields.io/github/followers/Amirhosseinsediqi?style=social"></a>

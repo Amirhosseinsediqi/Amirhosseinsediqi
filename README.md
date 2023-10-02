@@ -1,11 +1,11 @@
 My name is Amirhossein Sediqi
 ===============================
 
-Web developer & Teacher
+Web Developer & WordPress Developer
 -----------------------------
 *   🌍  I'm based in Glin Kayeh, IRAN
 *   ✉️  You can contact me at [sediqi.ah@gmail.com](mailto:sediqi.ah@gmail.com)
-*   🤝  I'm open to collaborating on interesting projects as a Web developer
+*   🤝  I'm open to collaborating on interesting projects as a Web developer & WordPress
 
 <a href="https://github.com/Amirhosseinsediqi" target="_blank" rel="noreferrer"><img
   src="https://img.shields.io/github/followers/Amirhosseinsediqi?style=social"></a>

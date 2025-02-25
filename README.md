@@ -1,11 +1,11 @@
 My name is Amirhossein Sediqi
 ===============================
 
-Web Developer & WordPress Developer
+Full-Stsck Developer
 -----------------------------
-*   🌍  I'm based in Glin Kayeh, IRAN
+*   🌍  I'm based in IRAN
 *   ✉️  You can contact me at [sediqi.ah@gmail.com](mailto:sediqi.ah@gmail.com)
-*   🤝  I'm open to collaborating on interesting projects as a Web developer & WordPress
+*   🤝  I'm open to collaborating on interesting projects as a Full-Stsck Development
 
 <a href="https://github.com/Amirhosseinsediqi" target="_blank" rel="noreferrer"><img
   src="https://img.shields.io/github/followers/Amirhosseinsediqi?style=social"></a>

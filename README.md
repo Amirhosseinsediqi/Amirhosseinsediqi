@@ -71,15 +71,3 @@ I build scalable web applications across the stack, with a focus on clear archit
 <a href="https://github.com/Amirhosseinsediqi" align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhosseinsediqi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
-
----
-
-## Resume
-
-- [View Resume (PDF)](./Amirhossein-Sediqi-FlowCV-Resume-20251025.pdf)
-
----
-
-## Support Me
-
-<a href="https://www.buymeacoffee.com/sediqi?new=1"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" /></a>

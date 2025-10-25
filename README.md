@@ -61,13 +61,3 @@ I build scalable web applications across the stack, with a focus on clear archit
 <a href="https://www.linkedin.com/in/amirhossein-sediqi-9282b8228/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
 </p>
 
----
-
-## GitHub Stats
-
-<a href="https://github.com/Amirhosseinsediqi" align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amirhosseinsediqi&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Amirhosseinsediqi" align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhosseinsediqi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
